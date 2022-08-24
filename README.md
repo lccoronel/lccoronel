@@ -26,7 +26,7 @@
     alt="Twitter"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-GitLab-0059ff?style=for-the-badge&logo=Twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Twitter-0059ff?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
 </p>
 
