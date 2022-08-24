@@ -36,3 +36,31 @@
 <p align="center">
   📌 I'm living in <b>Itapecerica da serra</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp; 👨🏽‍💻 Software Engineer at <b>Cheesecake Labs 💙</b>
 </p>
+
+<h4 align="center">
+  My stack 
+</h4>
+<p align="center">
+  <a
+    href="https://reactjs.org/" 
+    alt="LinkedIn"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-React-0059ff?style=for-the-badge&logo=React&logoColor=white" />
+  </a>
+  <a
+    href="https://github.com/lccoronel"
+    alt="GitHub"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-GitHub-0059ff?style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a
+    href="https://twitter.com/lcoronel07"
+    alt="Twitter"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-Twitter-0059ff?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+</p>
+
