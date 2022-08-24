@@ -38,7 +38,7 @@
 </p>
 
 <h4 align="center">
-  My stack 
+  My stack 👨🏽‍💻
 </h4>
 <p align="center">
   <a
