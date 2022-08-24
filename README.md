@@ -43,17 +43,17 @@
 <p align="center">
   <a
     href="https://reactjs.org/" 
-    alt="LinkedIn"
+    alt="ReactJS"
     target="blank"
   >
     <img src="https://img.shields.io/badge/-React-0059ff?style=for-the-badge&logo=React&logoColor=white" />
   </a>
   <a
-    href="https://github.com/lccoronel"
-    alt="GitHub"
+    href="https://reactnative.dev/"
+    alt="React Native"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-GitHub-0059ff?style=for-the-badge&logo=Github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ReactNative-0059ff?style=for-the-badge&logo=Reactnative&logoColor=white" />
   </a>
   <a
     href="https://twitter.com/lcoronel07"
