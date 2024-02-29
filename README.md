@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <b>Software Engineer | Mobile Engineer</b>
+  <b>Software Engineer | DevOps Engineer</b>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
   Hi, I'm Lucas! 👋
 </h4>
 <p align="center">
-  📌 I'm living in <b>Itapecerica da serra</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp; 👨🏽‍💻 Software Engineer at <b>Cheesecake Labs 💙</b>
+  📌 I'm living in <b>Embu das artes</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp; 👨🏽‍💻 Software Engineer at <b>F1rst Santander ❤️</b>
 </p>
 
 <h4 align="center">
